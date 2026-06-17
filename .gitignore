@@ -1,0 +1,11 @@
+node_modules/
+uploads/
+*.db
+*.db-shm
+*.db-wal
+yt-dlp.exe
+ffmpeg.exe
+ffprobe.exe
+*.log
+*.txt
+test_import.cjs
